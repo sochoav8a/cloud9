@@ -24,5 +24,5 @@ def get_phrases(name):
     phrases = blob.noun_phrases
     return phrases
 
-# GSW_text = wikipedia.summary("Golden State Warriors")
-# print(GSW_text)
+#GSW_text = summary_wikipedia("Golden State Warriors")
+#print(GSW_text)
